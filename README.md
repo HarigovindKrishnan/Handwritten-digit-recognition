@@ -2,7 +2,7 @@
 
 This project involves employing two models, with the first one being composed of three convolutional layers (conv2D), two maxPooling layers, a flatten layer followed by two dense layers. The final dense layer consists of 10 neurons/ nodes with the softmax activation function. The final dense layer holds the output to our model which is 10 values ranging from 0 to 1 and these 3 values add up to 1. Thus it can be considered as essentially giving us probabilities of the 10 digits to recognize from.
 
-![Screenshot](./Screenshot%202025-03-22%185658.png)
+![Screenshot](./Screenshot%202025-03-22%20185658.png)
 
 The second model created in this project is to recognize the operator used in the equation. The model is trained to recognize only the four basic mathematical operators i.e. +, -, *, /.
 
